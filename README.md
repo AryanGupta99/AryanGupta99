@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AryanGupta99
-- 👀 I’m interested in ...building a startup
+- 👋 Hi, I’m @AryanGupta99 
 - 🌱 I’m currently learning ...new technologies
 - 💞️ I’m looking to collaborate with ...web developers
+- 👀 I am Interested in DevOps and Cloud Computing
 - 📫 How to reach me ...instagram id - @aryan_99
 
 <!---
