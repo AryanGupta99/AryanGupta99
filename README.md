@@ -2,7 +2,6 @@
 - 🌱 I’m currently learning ...new technologies
 - 💞️ I’m looking to collaborate with ...web developers
 - 👀 I am Interested in DevOps and Cloud Computing
-- 📫 How to reach me ...instagram id - @aryan_99
 
 <!---
 AryanGupta99/AryanGupta99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
